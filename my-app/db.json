@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$zoLvXaERXOtFlNviTud8XuPfLNlXHVvw1TCmCHochvg/oe38N4K.C",
+      "id": 1
+    }
+  ]
+}
